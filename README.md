@@ -13,11 +13,11 @@ La aplicación de control de presupuesto te permite realizar un seguimiento de t
 
 ## Capturas de Pantalla
 
-![Pantalla de inicio](https://github.com/tr1p4losky/control-presupuesto/blob/main/a%C3%B1adir_presupuesto.png)
-![Registro de transacciones](https://github.com/tr1p4losky/control-presupuesto/blob/main/crear_gasto.png)
-![Gráficos de presupuesto](https://github.com/tr1p4losky/control-presupuesto/blob/main/men%C3%BA_principal.png)
-![Editar presupuesto](https://github.com/tr1p4losky/control-presupuesto/blob/main/editar_gasto.png)
-![Borrar presupuesto](https://github.com/tr1p4losky/control-presupuesto/blob/main/borrar_gasto.png)
+![Pantalla de inicio](screenshots/a%C3%B1adir_presupuesto.png)
+![Registro de transacciones](screenshots/crear_gasto.png)
+![Gráficos de presupuesto](screenshots/men%C3%BA_principal.png)
+![Editar presupuesto](screenshots/editar_gasto.png)
+![Borrar presupuesto](screenshots/borrar_gasto.png)
 
 ## Tecnologías Utilizadas
 
