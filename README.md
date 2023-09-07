@@ -33,3 +33,23 @@ La aplicación de control de presupuesto te permite realizar un seguimiento de t
    ```bash
    git clone https://github.com/tuusuario/control-presupuesto-react-vue.git](https://github.com/tr1p4losky/control-presupuesto.git)https://github.com/tr1p4losky/control-presupuesto.git
 
+1. Navega al directorio del proyecto:
+   ```bash
+   cd control-presupuesto-react-vue
+   
+2. Instala las dependencias utilizando npm o yarn:
+   ```bash
+   npm install
+   # o
+   yarn install
+   
+3. Inicia la aplicación:
+```bash
+npm start
+# o
+yarn start
+
+4. Abre tu navegador y ve a http://localhost:3000 para utilizar la aplicación.
+
+
+
