@@ -31,11 +31,11 @@ La aplicación de control de presupuesto te permite realizar un seguimiento de t
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tuusuario/control-presupuesto-react-vue.git](https://github.com/tr1p4losky/control-presupuesto.git)https://github.com/tr1p4losky/control-presupuesto.git
+   git clone https://github.com/tr1p4losky/control-presupuesto.git
 
 1. Navega al directorio del proyecto:
    ```bash
-   cd control-presupuesto-react-vue
+   cd control-presupuesto
    
 2. Instala las dependencias utilizando npm o yarn:
    ```bash
@@ -44,12 +44,16 @@ La aplicación de control de presupuesto te permite realizar un seguimiento de t
    yarn install
    
 3. Inicia la aplicación:
-```bash
-npm start
-# o
-yarn start
+   ```bash
+   npm start
+   # o
+   yarn start
 
 4. Abre tu navegador y ve a http://localhost:3000 para utilizar la aplicación.
 
-
+## Uso
+1. Registra tus transacciones ingresando los detalles como la descripción, el monto y la categoría.
+2. La aplicación calculará automáticamente tu saldo actual.
+3. Puedes ver tus transacciones anteriores en la lista de transacciones.
+4. Explora los gráficos para obtener una visualización clara de tus ingresos y gastos.
 
